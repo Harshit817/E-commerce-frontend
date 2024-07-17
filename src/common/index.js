@@ -1,4 +1,4 @@
-const backendDomin = process.env.API_LINK
+const backendDomin ="https://e-commerce-backend-4v5h.onrender.com"
 
 const SummaryApi = {
     signUP : {
